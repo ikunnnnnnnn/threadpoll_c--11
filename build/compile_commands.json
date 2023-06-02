@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lilei/test/threadpoll_c++11/build/src",
+  "command": "/usr/bin/g++   -I/home/lilei/test/threadpoll_c++11/src/../include  -g   -o CMakeFiles/main.dir/Threadpool.cpp.o -c /home/lilei/test/threadpoll_c++11/src/Threadpool.cpp",
+  "file": "/home/lilei/test/threadpoll_c++11/src/Threadpool.cpp"
+},
+{
+  "directory": "/home/lilei/test/threadpoll_c++11/build/src",
+  "command": "/usr/bin/g++   -I/home/lilei/test/threadpoll_c++11/src/../include  -g   -o CMakeFiles/main.dir/mian.cpp.o -c /home/lilei/test/threadpoll_c++11/src/mian.cpp",
+  "file": "/home/lilei/test/threadpoll_c++11/src/mian.cpp"
+}
+]
